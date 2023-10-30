@@ -1,2 +1,2 @@
 # ideal-healthcoach
-A wearable healthband for elderly disables persons
+A wearable healthband for elderly disabaled persons
